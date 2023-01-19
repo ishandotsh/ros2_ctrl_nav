@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ishan.sharma/dev_ws/install/string_interface/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/ishan.sharma/dev_ws/src/cstm_pub_srv/include/**",
+        "/home/ishan.sharma/dev_ws/src/filter_lidar/include/**",
+        "/home/ishan.sharma/dev_ws/src/pub_srv/include/**",
+        "/home/ishan.sharma/dev_ws/src/string_interface/include/**",
+        "/home/ishan.sharma/dev_ws/src/sub_from_other_pkg/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
